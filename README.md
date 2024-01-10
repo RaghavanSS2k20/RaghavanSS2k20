@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @RaghavanSS2k20(Raghavan M)
-- 👀 I’m interested in Express, NestJS, Flask, Django, springboot...
-- 🌱 I’m currently learning React, Typecript...
-- 
-- 📫 How to reach me 20pw26@psgtech.ac.in
 
-<!---
-RaghavanSS2k20/RaghavanSS2k20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+# 👋 Welcome to My GitHub World! 🌟
+
+```
+Name: Raghavan M
+Location: PSG tech, Coimbatore
+Occupation: Student,
+Interests: Builds from scratch, Dreams in N dimensions
+```
+## 🚀 About Me
+
+Hey there! I'm **Raghavan M**, a passionate individual with a knack for Building things from scratch. By day, I'm a Student, and by night, I'm an avid web, app Developer. My journey is fueled by a perpetual curiosity, and I'm always on the lookout for exciting challenges.
+
+## 📫 Let's Connect!
+
+Feel free to reach out if you share similar interests or if you have any exciting opportunities or projects to collaborate on! 🌐
+✉️ 20pw26@psgtech.ac.in
+🔗https://www.linkedin.com/in/raghavan-m-7640531b0
+
+
+### checkout my latest work :
+[WhyOnM](https://whyonm.vercel.app) -  WhyIsItOnMyMind while it can be here?
+
+**Happy coding!** 🚀
