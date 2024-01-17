@@ -22,4 +22,4 @@ Feel free to reach out if you share similar interests or if you have any excitin
 ### checkout my latest work :
 [WhyOnM](https://whyonm.vercel.app) -  WhyIsItOnMyMind while it can be here?
 
-**Happy coding!** 🚀
+**Happy Building!!** 🚀
