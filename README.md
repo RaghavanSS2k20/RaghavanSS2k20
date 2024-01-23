@@ -15,7 +15,7 @@ Hey there! I'm **Raghavan M**, a passionate individual with a knack for Building
 ## 📫 Let's Connect!
 
 Feel free to reach out if you share similar interests or if you have any exciting opportunities or projects to collaborate on! 🌐
-- ✉️ 20pw26@psgtech.ac.in
+- ✉️ rn75creatography@gmail.com
 - 🔗https://www.linkedin.com/in/raghavan-m-7640531b0
 
 
