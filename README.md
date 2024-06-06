@@ -22,6 +22,6 @@ Feel free to reach out if you share similar interests or if you have any excitin
 
 ### checkout my latest work :
 - [WhyOnM](https://whyonm.vercel.app) -  WhyIsItOnMyMind while it can be here?
-- [Clouds](https://waitlist-clouds.vercel.app) - Mindfulness made easy with Clouds- Join the waitlist!!
+
 
 **Happy Building!!** 🚀
